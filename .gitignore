@@ -53,6 +53,5 @@ sessions.db
 app/**/build
 pkgs/**/build
 uploads
-core
 sessions.db-lock
 .base
